@@ -30,7 +30,7 @@ Conducted data exploration, structuring, and aggregation entirely within Microso
 
 - Designed an interactive dashboard utilizing dynamic **Slicers** (Order Date, Region, and Management) to enable instant filtering and multi-dimensional analysis for stakeholders.
 
-📍 **Excel File:** [Sales_Performance_Analysis.xlsx](link-ke-file-excel-anda)
+📍 **Excel File:** [Sales_Performance_Analysis.xlsx](Sales_Performance_Analysis.xlsx)
 
 📍 **Raw Data:** Included within the `From Range` sheet in the workbook.
 
